@@ -14,8 +14,7 @@ demoRepo1
 3. hello
 
 ### Test 3
-> world
-> world new ... !!!
+> world, world new ... !!!
 
 oh well
 
