@@ -20,3 +20,5 @@ demoRepo1
 oh well
 
 new line :) tralala !!!
+
+featureTest1
