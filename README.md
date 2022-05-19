@@ -21,3 +21,5 @@ oh well
 new line :) tralala !!!
 
 featureTest2
+
+stashTest1
