@@ -23,3 +23,5 @@ new line :) tralala !!!
 featureTest2
 
 stashTest1
+
+mergeConflict maybe local<h2>:)</h2>
