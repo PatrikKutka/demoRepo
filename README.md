@@ -26,3 +26,5 @@ stashTest1
 
 mergeConflict maybe local and remote <h2>:)</h2>
 hmmm?
+
+stashTest06
