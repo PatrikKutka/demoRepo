@@ -36,6 +36,10 @@ this is what i wanna cherry pick
 
 this i dont wanna see when i cherry pick line 34
 
+<<<<<<< Updated upstream
 stashTest08
 
 stashTest09
+=======
+stashTest08
+>>>>>>> Stashed changes
