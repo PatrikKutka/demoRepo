@@ -24,4 +24,8 @@ featureTest2
 
 stashTest1
 
+<<<<<<< HEAD
 mergeConflict maybe local<h2>:)</h2>
+=======
+mergeConflict maybe from remote <h2>:)</h2>
+>>>>>>> 15edd7265e19e8f5cd0b51484a5a458918938785
